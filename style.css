@@ -17,4 +17,5 @@ a:hover {
 
 div {
     padding: 70px;
+    border: 1px solid black;
 }
